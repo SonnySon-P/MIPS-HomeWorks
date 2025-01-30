@@ -1,4 +1,4 @@
-# MIPS-HomeWorks
+# MIPS - HomeWorks of Computer Organization and Architecture
 
 **作品名稱：** MIPS指令集的練習
 

@@ -1,4 +1,4 @@
-# MIPS - HomeWorks of Computer Organization and Architecture
+# MIPS Assembly Language - HomeWorks of Computer Organization and Architecture
 
 **作品名稱：** MIPS指令集的練習
 
@@ -6,10 +6,10 @@
 
 **使用指令集：** MIPS
 
-**開發環境：** Mars4_5.jar
+**開發IDE：** Mars4_5.jar
 
 **題目解說：** 題目主要有四題，分別如下：
-1. 題目一：輸入一數列，回傳第二大與第二小數值。
-2. 題目二：輸入除數與被除數，回傳計算後的商值。
-3. 題目三：輸入一數值，回傳該數值的reversal。
-4. 題目四：計算乘冪。
+1. W1.asm：題目為輸入一數列，回傳第二大與第二小數值。
+3. W2.asm：題目為輸入除數與被除數，回傳計算後的商值。
+4. W3.asm：題目為輸入一數值，回傳該數值的reversal。
+5. W4.asm：題目為計算乘冪。
